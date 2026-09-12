@@ -2,20 +2,20 @@
 
 ### Biomedical Engineer | Neuroimaging | fMRI | MRS | Brain Connectivity | Machine Learning
 
-I am a biomedical engineer with a research background in neuroimaging, functional magnetic resonance imaging (fMRI), magnetic resonance spectroscopy (MRS), brain connectivity, and machine learning.
+I am a biomedical engineer with a research background in neuroimaging, functional magnetic resonance imaging (fMRI), magnetic resonance spectroscopy (MRS), brain connectivity, signal processing, and machine learning.
 
-My research experience includes investigating brain functional mechanisms in cognitive control, anhedonia, pain processing, and pharmacological effects, as well as developing MRS-based approaches for glioblastoma analysis and tumor detection.
+My research experience includes fMRI studies of cognitive control, anhedonia, and pain-related brain networks, as well as MRS-based analysis and machine learning approaches for glioblastoma. I am particularly interested in using computational methods to study brain function, connectivity, and individual differences in neural dynamics.
 
 ## Research Interests
 
 - Cognitive Neuroscience
-- Neuroimaging
+- Computational Neuroimaging
 - Functional MRI (fMRI)
-- Magnetic Resonance Spectroscopy (MRS)
 - Brain Connectivity
 - Functional and Effective Connectivity
+- Cognitive Control
 - Medical Imaging
-- Artificial Intelligence
+- Magnetic Resonance Spectroscopy (MRS)
 - Machine Learning
 - Deep Learning
 
@@ -45,20 +45,25 @@ My research experience includes investigating brain functional mechanisms in cog
 **M.Sc. in Biomedical Engineering (Bio-Electric)**  
 Kermanshah University of Medical Sciences
 
-**B.Sc. in Electrical Engineering (Electronics)**  
+**B.Sc. in Electrical Engineering (Electronics Engineering)**  
 Razi University
 
 ## Publications
 
-My research publications include studies in fMRI-based cognitive and clinical neuroscience, brain connectivity, pain-related brain networks, and MRS-based glioblastoma analysis.
+My publications cover fMRI-based cognitive and clinical neuroscience, brain connectivity, pain-related brain networks, and MRS-based glioblastoma research.
 
-See my research projects above for publication details and links to the corresponding articles.
+For the complete list of publications, see my [research portfolio](https://github.com/AyobFaramarzi/My-papers) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=1uivc_4AAAAJ).
 
 ## Research Direction
 
-I am particularly interested in combining neuroimaging with computational methods and artificial intelligence to investigate brain function, brain connectivity, and individual differences in brain dynamics.
+My current research interest is at the intersection of neuroimaging, brain connectivity, and artificial intelligence, with a focus on understanding how brain networks support cognition and how their dynamics vary across individuals and conditions.
+
+## Links
+
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=1uivc_4AAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/ayob-faramarzi/)
+- [GitHub](https://github.com/AyobFaramarzi)
 
 ## Contact
 
-- GitHub: [AyobFaramarzi](https://github.com/AyobFaramarzi)
-- Email: ayobfaramarzi@gmail.com
+Email: ayobfaramarzi@gmail.com

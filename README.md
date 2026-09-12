@@ -1,8 +1,8 @@
 # Ayob Faramarzi
 
-### Biomedical Engineer | Neuroimaging | fMRI | MRS | Brain Connectivity | Machine Learning
+![Research profile](research-profile.svg)
 
-![Research portfolio map](figures/research-map.svg)
+### Biomedical Engineer | Neuroimaging | fMRI | MRS | Brain Connectivity | Machine Learning
 
 I am a biomedical engineer with a research background in neuroimaging, functional magnetic resonance imaging (fMRI), magnetic resonance spectroscopy (MRS), brain connectivity, signal processing, and machine learning.
 

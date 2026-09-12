@@ -67,7 +67,7 @@ Razi University
 
 ## Research Direction
 
-My research direction is at the intersection of neuroimaging, brain connectivity, and artificial intelligence, with a focus on understanding how brain networks support cognition and how their dynamics vary across individuals and conditions.
+My research sits at the intersection of neuroimaging, brain connectivity, and artificial intelligence, focusing on how brain networks support cognition and how their dynamics vary across individuals and conditions.
 
 ## Links
 
